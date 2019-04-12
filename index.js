@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import Home from './src/Home';
+import Home from './src/LandingComponents';
 
 function App() {
   return (
